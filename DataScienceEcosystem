@@ -1,0 +1,170 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "478cc001-a721-4cf3-a11c-c34529850f88",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "# Data Science Tools and Ecosystem"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "05a5c75c-472d-4fa4-980e-3b29974d6cc2",
+   "metadata": {},
+   "source": [
+    "In this notebook, Data Science Tools and Ecosystem are summarized."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8a448b81-1735-40b7-b860-c372d3480b92",
+   "metadata": {},
+   "source": [
+    "### Objectives: \n",
+    "* Python\n",
+    "* R\n",
+    "* SQL\n",
+    "* Jupyter"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c4c4b69e-3c5b-4757-b865-6a236fd0ca4d",
+   "metadata": {},
+   "source": [
+    "Some of the popular languages that Data Scientists use are: \n",
+    "1. Python \n",
+    "2. R \n",
+    "3. SQL "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "29d502d1-5c1a-486c-a9bc-f85018431300",
+   "metadata": {},
+   "source": [
+    "Some of the commonly used libraries used by Data Scientists include: \n",
+    "1. Pandas \n",
+    "2. NumPy \n",
+    "3. PyTorch "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "80013917-c3b2-4e0d-930f-4f90436cf8c1",
+   "metadata": {},
+   "source": [
+    "|Data Science Tools|\n",
+    "|------------------|\n",
+    "|Jupyter|\n",
+    "|RStudio|\n",
+    "|Visual Studio Code| "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b2622724-2581-4b8f-bb5e-69bd4edc8ffd",
+   "metadata": {},
+   "source": [
+    "### Below are a few examples of evaluating arithmetic expressions in Python."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d8b1cc91-0993-4629-8af6-844fe3f5de94",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "This a simple arithmetic expression to multiply then add integers."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "3525a6d4-96df-41a4-ab49-f515f637952d",
+   "metadata": {
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "17\n"
+     ]
+    }
+   ],
+   "source": [
+    "result = (3*4) + 5\n",
+    "print(result)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "05c0b623-398f-4920-976b-2306e74e5f72",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "This will convert 200 minutes to hours by diving by 60."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 18,
+   "id": "8a9ee48a-f2c7-4059-95bb-9b4e2d4191ab",
+   "metadata": {
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "3.3333333333333335\n"
+     ]
+    }
+   ],
+   "source": [
+    "result = 200/60\n",
+    "print(result)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "2a0b41bd-fde0-4136-bebc-ec9a1af28bc5",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "## Author\n",
+    "Jonathon Yinger"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
